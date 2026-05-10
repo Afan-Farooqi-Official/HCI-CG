@@ -9,10 +9,10 @@
 
 | Member | Phase | File |
 |--------|-------|------|
-| Member A | Phase 1 — Requirements | `MEMBER_A_Requirements.md` |
-| Member B | Phase 2 — Analysis | `MEMBER_B_Analysis.md` |
-| Member C | Phase 3 — Design | `MEMBER_C_Design.md` |
-| Member D | Phase 4 — Implementation | `MEMBER_D_Implementation.md` + `PolyLineEditor.jsx` |
+| Member A | Phase 1 — Requirements | `Hunain Amjad.md` |
+| Member B | Phase 2 — Analysis | `Amir Aslam.md` |
+| Member C | Phase 3 — Design | `Hamza Aijaz.md` |
+| Member D | Phase 4 — Implementation | `Afan Qaiser Farooqi.md` + `PolyLineEditor.jsx` |
 
 ---
 
